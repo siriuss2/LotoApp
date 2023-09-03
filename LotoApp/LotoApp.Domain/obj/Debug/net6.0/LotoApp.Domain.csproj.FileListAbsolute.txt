@@ -1,0 +1,14 @@
+C:\Users\Dragan\Desktop\LotoApp\LotoApp\LotoApp.Domain\bin\Debug\net6.0\LotoApp.Domain.deps.json
+C:\Users\Dragan\Desktop\LotoApp\LotoApp\LotoApp.Domain\bin\Debug\net6.0\LotoApp.Domain.runtimeconfig.json
+C:\Users\Dragan\Desktop\LotoApp\LotoApp\LotoApp.Domain\bin\Debug\net6.0\LotoApp.Domain.dll
+C:\Users\Dragan\Desktop\LotoApp\LotoApp\LotoApp.Domain\bin\Debug\net6.0\LotoApp.Domain.pdb
+C:\Users\Dragan\Desktop\LotoApp\LotoApp\LotoApp.Domain\obj\Debug\net6.0\LotoApp.Domain.csproj.AssemblyReference.cache
+C:\Users\Dragan\Desktop\LotoApp\LotoApp\LotoApp.Domain\obj\Debug\net6.0\LotoApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragan\Desktop\LotoApp\LotoApp\LotoApp.Domain\obj\Debug\net6.0\LotoApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Dragan\Desktop\LotoApp\LotoApp\LotoApp.Domain\obj\Debug\net6.0\LotoApp.Domain.AssemblyInfo.cs
+C:\Users\Dragan\Desktop\LotoApp\LotoApp\LotoApp.Domain\obj\Debug\net6.0\LotoApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dragan\Desktop\LotoApp\LotoApp\LotoApp.Domain\obj\Debug\net6.0\LotoApp.Domain.dll
+C:\Users\Dragan\Desktop\LotoApp\LotoApp\LotoApp.Domain\obj\Debug\net6.0\refint\LotoApp.Domain.dll
+C:\Users\Dragan\Desktop\LotoApp\LotoApp\LotoApp.Domain\obj\Debug\net6.0\LotoApp.Domain.pdb
+C:\Users\Dragan\Desktop\LotoApp\LotoApp\LotoApp.Domain\obj\Debug\net6.0\LotoApp.Domain.genruntimeconfig.cache
+C:\Users\Dragan\Desktop\LotoApp\LotoApp\LotoApp.Domain\obj\Debug\net6.0\ref\LotoApp.Domain.dll
